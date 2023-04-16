@@ -67,9 +67,9 @@ You can procedurally generate world with caves and ores, which you can explore.
 <img src="Screenshots/PickaxeCrafting7.PNG" alt="Craft pickaxe 7">
 * Get a copper ingot from the furnace
 <img src="Screenshots/Furnace.PNG" alt="Copper ingot">
-<img src="Screenshots/Furnace.PNG2" alt="Copper ingot 2">
-<img src="Screenshots/Furnace.PNG3" alt="Copper ingot 3">
-<img src="Screenshots/Furnace.PNG4" alt="Copper ingot 4">
+<img src="Screenshots/Furnace2.PNG" alt="Copper ingot 2">
+<img src="Screenshots/Furnace3.PNG" alt="Copper ingot 3">
+<img src="Screenshots/Furnace4.PNG" alt="Copper ingot 4">
 * Selecting tools for eq changes the player appearance
 <img src="Screenshots/PlayerSelectTool.PNG" alt="Player select tool">
 <img src="Screenshots/PlayerSelectTool2.PNG" alt="Player select tool 2">
@@ -79,8 +79,8 @@ You can procedurally generate world with caves and ores, which you can explore.
 <img src="Screenshots/Enemies.PNG" alt="Enemies">
 * Dynamic lighting and shading
 <img src="Screenshots/Light.PNG" alt="Light 1">
-<img src="Screenshots/Light.PNG" alt="Light 2">
-<img src="Screenshots/Light.PNG" alt="Light 3">
+<img src="Screenshots/Light2.PNG" alt="Light 2">
+<img src="Screenshots/Light3.PNG" alt="Light 3">
 * Backgrounds
 <img src="Screenshots/Background.PNG" alt="Background">
 <img src="Screenshots/Background2.PNG" alt="Background2">
